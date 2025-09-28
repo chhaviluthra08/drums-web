@@ -9,5 +9,5 @@ While leaning complex javaScript concepts the first time, I was struggling alot 
 2. Clone the repo
 3. Copy the link for the cloned repo
 4. Open with your IDE locally and modify
-   =There are no dependencies=
-! Note: This repo has been picked up from a Web Dev course on udemy by -Angela Hu and modified by me. !
+   There are no dependencies
+ >**Note**: This repo has been picked up from a Web Dev course on udemy by -Angela Hu and modified by me. 
