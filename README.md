@@ -1,9 +1,9 @@
 # drums-web
 While leaning complex javaScript concepts the first time, I was struggling alot and concepts such as callbacks, timeout, etc didnt sit right with me the first time so this time I tried to learn them with a practical application. 
 ### Technologies used:
-**HTML** : The basic structure of the page.
-**CSS** : The styling of the page, adding classes and defining classes for animations.
-**JavaScipt** : Declaring, using functions and adding animations.
+**HTML** : The basic structure of the page.<br>
+**CSS** : The styling of the page, adding classes and defining classes for animations.<br>
+**JavaScipt** : Declaring, using functions and adding animations.<br>
 ### How to modify it :
 1. Fork the repo
 2. Clone the repo
